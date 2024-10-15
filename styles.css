@@ -191,7 +191,7 @@ body{
 @media (min-width:300px) and (max-width:600px) {
    
     .intro > p{
-        font-size: 5rem;
+        font-size: 4rem;
         text-align: center;
     }
     .welcomingBox{
