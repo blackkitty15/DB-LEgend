@@ -188,7 +188,7 @@ body{
 
 /*for backgrounds*/
 
-@media (max-width:600px) {
+@media (min-width:300px) and (max-width:600px) {
    
     .intro > p{
         font-size: 5rem;
